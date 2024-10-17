@@ -1,0 +1,43 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Ian Imbuga",
+        "date": "2024-10-01",
+        "attendance": "Present"
+      },
+      {
+        "id": 2,
+        "name": "Slyvia Nanjala",
+        "date": "2024-10-01",
+        "attendance": "Absent"
+      },
+      {
+        "id": 3,
+        "name": "Melvin Adisa ",
+        "date": "2024-10-01",
+        "attendance": "Present"
+      },
+      {
+        "id": 4,
+        "name": "Joy Wera",
+        "date": "2024-10-01",
+        "attendance": "Late"
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
