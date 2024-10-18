@@ -14,10 +14,10 @@ The Attendance Student Form is a web application designed to streamline the proc
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript for the front-end
-- Node.js and Express for the back-end
-- MongoDB for the database
-- Bootstrap for responsive design
+- HTML
+- JAVASCRIPT
+- CSS
+- db.json
 
 ## Installation
 
