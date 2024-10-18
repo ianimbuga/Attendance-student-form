@@ -23,4 +23,9 @@ The Attendance Student Form is a web application designed to streamline the proc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/attendance-student-form.git
+   git clone https://github.com/ianimbuga/Attendance-student-form.git
+
+
+## License
+This project is licensed under the MIT License
+copyright(c) 2024
