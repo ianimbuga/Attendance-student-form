@@ -1,43 +1,46 @@
 {
-    "students": [
-      {
-        "id": 1,
-        "name": "Ian Imbuga",
-        "date": "2024-10-01",
-        "attendance": "Present"
-      },
-      {
-        "id": 2,
-        "name": "Slyvia Nanjala",
-        "date": "2024-10-01",
-        "attendance": "Absent"
-      },
-      {
-        "id": 3,
-        "name": "Melvin Adisa ",
-        "date": "2024-10-01",
-        "attendance": "Present"
-      },
-      {
-        "id": 4,
-        "name": "Joy Wera",
-        "date": "2024-10-01",
-        "attendance": "Late"
-      }
-    ]
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  "attendance": [
+    {
+      "id": 1,
+      "studentName": "ian imbuga",
+      "technicalMentor": "beatrice wambui",
+      "date": "2024-10-19",
+      "present": true
+    },
+    {
+      "id": 2,
+      "studentName": "zillah walaya",
+      "technicalMentor": "Brian wera",
+      "date": "2024-10-19",
+      "present": false
+    },
+    {
+      "id": 3,
+      "studentName": "Emily nalotu",
+      "technicalMentor": "Alice glory",
+      "date": "2024-10-19",
+      "present": true
+    },
+    {
+      "id": 4,
+      "studentName": "Michael irangi",
+      "technicalMentor": "Catherine lumasa",
+      "date": "2024-10-19",
+      "present": true
+    },
+    {
+      "id": 5,
+      "studentName": "Sarah glozz",
+      "technicalMentor": "David masheti",
+      "date": "2024-10-19",
+      "present": false
+    },
+    {
+      "id": 1729318909891,
+      "studentName": "ian",
+      "technicalMentor": "gh",
+      "date": "0020-07-31",
+      "present": false
+    }
+  ]
+}
